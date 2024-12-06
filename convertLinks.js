@@ -1,4 +1,4 @@
-var your_sheet_id = '1RuhHfpVq86kvUMmLXHYDSG8ZQSq77TpjTMag_ZwqQPM';
+var your_sheet_id = '';
 var your_sheet_name = 'Sheet1';
 
 var ss = SpreadsheetApp.openById(your_sheet_Id);
